@@ -22,7 +22,7 @@ What is contained here
 The source repository contains full sources for ZLib, MiniZip and
 Objective-Zip, together with some unit tests. The versions included are:
 
-- 1.2.8 for [ZLib](http://zlib.net).
+- 1.2.12 for [ZLib](http://zlib.net).
 - 1.1 (as of 13/5/2017) for [MiniZip](https://github.com/nmoinvaz/minizip).
 - latest version for Objective-Zip.
 
