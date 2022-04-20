@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source       = { :git => "https://github.com/gianlucabertani/Objective-Zip.git",
+  s.source       = { :git => "https://github.com/CHRick/Objective-Zip.git",
                      :tag => s.version.to_s }
 
 
