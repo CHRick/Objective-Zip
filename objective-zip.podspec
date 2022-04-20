@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
                    Objective-Zip includes sources of latest versions of ZLib and MiniZip.
                    DESC
 
-  s.homepage     = "https://github.com/gianlucabertani/Objective-Zip"
+  s.homepage     = "https://github.com/CHRick/Objective-Zip"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.ios.deployment_target = "8.0"
+  s.ios.deployment_target = "11.0"
   s.osx.deployment_target = "10.7"
 
 
